@@ -1,9 +1,9 @@
 My name is Arvind Dulal
 =====================================================================================================================================
 
-I am a 16-year-old high school sophomore
+I am a 16-year-old high school junior 
 ----------------------------------------
 
-Working on data and AI/ML engineering also CS projects
+Working on improving my computer science skills 
 
 * 🌍  Based in Pennsylvania, United States
